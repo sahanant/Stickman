@@ -27,7 +27,7 @@ def frames(path,location):
     cv2.destroyAllWindows()
     
 def main():
-    frames('videoplayback.mp4','animation')
+    frames('source_file.mp4','animation')
     
     
 main()
